@@ -1,0 +1,106 @@
+nav {
+    width: 100%;
+    margin: auto;
+    position: relative;
+    text-align: center;
+    height: 60px;
+    margin: -13px 15px 0 0;
+}
+nav ul{
+    list-style: none;
+}
+nav ul li{
+    display: inline-block;
+    padding: 14px 0;
+}
+nav ul li a{
+    text-decoration: none;
+    line-height: 20px;
+    padding: 10px;
+    color: #262626;
+    font-family:"Work Sans",sans-serif; 
+    transition: all 0.3s ease-in-out;
+    margin: -8px 0 0 0;
+    float: left;
+    font-weight: 600;
+    font-size: 12px;
+}
+nav ul li a:hover{
+    color: grey;
+    transition: .6s;
+    background: silver;
+}
+.shadow{
+    position: relative;
+    box-shadow: 0 1px 4px rgba(0,0,0,3), 0 0 40px rgba(0,0,0,0.1) inset;
+}
+
+.webp1{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.paragraf1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    font-family: arial;
+}
+
+.paragraf2{
+    display:block ;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    color: blue;
+    font-size: 15px;
+    font-family: arial; 
+    text-indent: 0px;
+}
+
+.paragraf3{
+    display:block ;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    font-size: 200%;
+    color: #313131;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
+
+.paragraf4{
+    display:block ;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    font-size: 15px;
+    font-family: "Work Sans",sans-serif;
+}
+
+
+
+.img2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.li{
+    font-family: arial;
+}
+.teks{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    font-size: 20px;
+    font-family: "Work Sans",sans-serif;
+    text-justify: auto;
+    color: gray;
+    
+}
